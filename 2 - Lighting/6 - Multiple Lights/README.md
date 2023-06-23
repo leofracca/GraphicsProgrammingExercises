@@ -13,3 +13,7 @@ This program uses **ImGui** to create a window where the values of the lights ca
 
 
 
+
+
+https://github.com/leofracca/GraphicsProgrammingExercises/assets/32203200/9db97647-6e0f-4c33-b7b1-afb2e824ca12
+
